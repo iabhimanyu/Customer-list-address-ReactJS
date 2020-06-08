@@ -1,0 +1,28 @@
+[{
+	"id": 1,
+	"name": "Jasemine Jaikar",
+	"age":"19",
+	"sex":"Female"
+
+},
+ {
+	"id": 2,
+	"name": "Abhimanyu Raj",
+	"age":"22",
+	"sex":"Male"
+
+},
+ {
+	"id": 3,
+	"name": "Aryan Anand",
+	"age":"27",
+	"sex":"Male"
+},
+{
+	"id": 4,
+	"name": "Alisha Simha",
+	"age":"24",
+	"sex":"Female"
+
+}
+]
